@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+<resources>
+    <string name="app_name">PurchaseKit Views Sample</string>
+    <string name="paywall_title">Unlock Pro</string>
+    <string name="paywall_subtitle">Sample without Compose</string>
+    <string name="cta_purchase_monthly">Pro Monthly</string>
+    <string name="cta_purchase_yearly">Pro Yearly</string>
+    <string name="cta_purchase_lifetime">Lifetime</string>
+    <string name="cta_restore">Restore Purchases</string>
+    <string name="cta_manage">Manage Subscriptions</string>
+    <string name="label_flow_state_idle">Idle</string>
+    <string name="label_flow_state_purchasing">Purchasing…</string>
+    <string name="label_flow_state_pending">Pending…</string>
+    <string name="label_flow_state_failed">Failed</string>
+</resources>

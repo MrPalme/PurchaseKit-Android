@@ -1,0 +1,9 @@
+# SPDX-License-Identifier: Apache-2.0
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.cxx/
